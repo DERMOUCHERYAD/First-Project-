@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Ryad  Web   </title>
+    <style>  
+    body 
+    {
+      background-color: darkseagreen;      
+    }
+    .X1
+    {
+        color: orangered;
+    }
+    .x2
+    {
+     color: rgb(0, 68, 255);
+    }
+    .Color
+    {
+        color: blue;
+         
+    }
+    .X3 button
+    {
+        color:purple;
+    }
+    .X4 button
+    {
+        color: green;
+    }
+    </style>
+
+</head>
+
+<body>
+    <h1> Ryad Dermouche </h1>
+   <p class="X1" >Hello Everybody <br> Today we gonna to learn how we create our web </p>
+   <p class="x2"> If you have an account click  here <a href="https://www.youtube.com/watch?v=aUcdqi5sfFQ">If you have an account click  here</a>  </p>
+   <button class="x2"> Connexion </button>
+   <h3> If you have anything you want to search for it just click here</h3>
+   <input type="text" placeholder="Search here? " class="Color">
+   <br>
+   <h2> *Create your  new account</h2>
+   <input class="Name" type="text" placeholder="Email /Number">
+   <br>
+   <input type="password" placeholder="Pass Word">
+   <br>
+   <br>
+   <br>
+ <input type="file">
+ <br>
+<label for="">Your date </label> 
+ <input type="date" r>
+ <br>
+ <label for="">Your number </label>
+ <input type="number">
+ <br>
+ <button> Login </button>
+
+ <ul>
+<li class="X3"> <button   >Messenger</button> </li> 
+<li>  <button class="X1">Intagram</button></li>
+<li > <button class="x2"  > Telegram </button></li>
+<li class="X4"> <button  > WatsApp</button></li>
+
+ </ul>
+<br>
+<br>
+<img src="../Images/Facebook.png" alt="">
+
+
+</body>  
+</html>
+ 
+    
+ 
